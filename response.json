@@ -1,0 +1,5664 @@
+{
+  "created": "2024-06-19T16:37:48+02:00",
+  "update": "2024-06-19T17:37:48+02:00",
+  "uv": {
+    "duration": {
+      "days": 2,
+      "hours": 2
+    },
+    "url": "https://dsa.no/sol-og-solarium/slik-beskytter-du-deg-i-sola",
+    "displayUrl": "dsa.no"
+  },
+  "dayIntervals": [
+    {
+      "start": "2024-06-19T17:00:00+02:00",
+      "end": "2024-06-19T23:00:00+02:00",
+      "twentyFourHourSymbol": "fair_day",
+      "twelveHourSymbols": [null, "fair_day"],
+      "sixHourSymbols": [null, null, "fair_day", "fair_day"],
+      "symbolConfidence": "Certain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 40
+      },
+      "temperature": {
+        "value": 20.7,
+        "min": 15.1,
+        "max": 21.7
+      },
+      "wind": {
+        "min": 1.4,
+        "max": 3.9,
+        "maxGust": 8.4
+      }
+    },
+    {
+      "start": "2024-06-20T00:00:00+02:00",
+      "end": "2024-06-20T23:00:00+02:00",
+      "twentyFourHourSymbol": "fair_day",
+      "twelveHourSymbols": ["partlycloudy_day", "clearsky_day"],
+      "sixHourSymbols": [
+        "partlycloudy_night",
+        "partlycloudy_day",
+        "clearsky_day",
+        "clearsky_day"
+      ],
+      "symbolConfidence": "Certain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.2,
+        "min": 12.0,
+        "max": 21.6
+      },
+      "wind": {
+        "min": 2.7,
+        "max": 5.1,
+        "maxGust": 11.3
+      }
+    },
+    {
+      "start": "2024-06-21T00:00:00+02:00",
+      "end": "2024-06-21T23:00:00+02:00",
+      "twentyFourHourSymbol": "clearsky_day",
+      "twelveHourSymbols": ["clearsky_day", "fair_day"],
+      "sixHourSymbols": [
+        "clearsky_night",
+        "clearsky_day",
+        "clearsky_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Certain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 40
+      },
+      "temperature": {
+        "value": 20.8,
+        "min": 9.0,
+        "max": 21.1
+      },
+      "wind": {
+        "min": 1.9,
+        "max": 3.0,
+        "maxGust": 7.2
+      }
+    },
+    {
+      "start": "2024-06-22T00:00:00+02:00",
+      "end": "2024-06-22T23:00:00+02:00",
+      "twentyFourHourSymbol": "lightrain",
+      "twelveHourSymbols": ["rain", "cloudy"],
+      "sixHourSymbols": ["rain", "rain", "cloudy", "cloudy"],
+      "symbolConfidence": "Uncertain",
+      "precipitation": {
+        "value": 4.2,
+        "probability": 50
+      },
+      "temperature": {
+        "value": 18.7,
+        "min": 11.9,
+        "max": 18.7
+      },
+      "wind": {
+        "min": 1.5,
+        "max": 2.4
+      }
+    },
+    {
+      "start": "2024-06-23T00:00:00+02:00",
+      "end": "2024-06-23T23:00:00+02:00",
+      "twentyFourHourSymbol": "fair_day",
+      "twelveHourSymbols": ["partlycloudy_day", "fair_day"],
+      "sixHourSymbols": [
+        "cloudy",
+        "partlycloudy_day",
+        "partlycloudy_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Certain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 10
+      },
+      "temperature": {
+        "value": 21.1,
+        "min": 13.6,
+        "max": 21.1
+      },
+      "wind": {
+        "min": 1.8,
+        "max": 3.9
+      }
+    },
+    {
+      "start": "2024-06-24T00:00:00+02:00",
+      "end": "2024-06-24T23:00:00+02:00",
+      "twentyFourHourSymbol": "partlycloudy_day",
+      "twelveHourSymbols": ["fair_day", "fair_day"],
+      "sixHourSymbols": [
+        "fair_day",
+        "fair_day",
+        "partlycloudy_day",
+        "fair_night"
+      ],
+      "symbolConfidence": "Certain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 10
+      },
+      "temperature": {
+        "value": 22.4,
+        "min": 12.9,
+        "max": 22.4
+      },
+      "wind": {
+        "min": 2.1,
+        "max": 3.1
+      }
+    },
+    {
+      "start": "2024-06-25T00:00:00+02:00",
+      "end": "2024-06-25T23:00:00+02:00",
+      "twentyFourHourSymbol": "clearsky_day",
+      "twelveHourSymbols": ["clearsky_day", "clearsky_day"],
+      "sixHourSymbols": [
+        "clearsky_day",
+        "fair_day",
+        "clearsky_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Certain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 5
+      },
+      "temperature": {
+        "value": 22.8,
+        "min": 13.7,
+        "max": 22.8
+      },
+      "wind": {
+        "min": 1.8,
+        "max": 2.3
+      }
+    },
+    {
+      "start": "2024-06-26T00:00:00+02:00",
+      "end": "2024-06-26T23:00:00+02:00",
+      "twentyFourHourSymbol": "clearsky_day",
+      "twelveHourSymbols": ["clearsky_day", "clearsky_day"],
+      "sixHourSymbols": [
+        "clearsky_day",
+        "clearsky_day",
+        "clearsky_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Certain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 10
+      },
+      "temperature": {
+        "value": 23.1,
+        "min": 14.3,
+        "max": 23.1
+      },
+      "wind": {
+        "min": 1.6,
+        "max": 2.5
+      }
+    },
+    {
+      "start": "2024-06-27T00:00:00+02:00",
+      "end": "2024-06-27T23:00:00+02:00",
+      "twentyFourHourSymbol": "clearsky_day",
+      "twelveHourSymbols": ["clearsky_day", "clearsky_day"],
+      "sixHourSymbols": [
+        "clearsky_day",
+        "clearsky_day",
+        "clearsky_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Certain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 20
+      },
+      "temperature": {
+        "value": 24.2,
+        "min": 15.2,
+        "max": 24.2
+      },
+      "wind": {
+        "min": 1.8,
+        "max": 2.2
+      }
+    },
+    {
+      "start": "2024-06-28T00:00:00+02:00",
+      "end": "2024-06-28T23:00:00+02:00",
+      "twentyFourHourSymbol": "clearsky_day",
+      "twelveHourSymbols": ["clearsky_day", "fair_day"],
+      "sixHourSymbols": [
+        "clearsky_day",
+        "clearsky_day",
+        "clearsky_day",
+        "clearsky_night"
+      ],
+      "symbolConfidence": "Uncertain",
+      "precipitation": {
+        "value": 0.0,
+        "probability": 20
+      },
+      "temperature": {
+        "value": 23.7,
+        "min": 16.1,
+        "max": 23.7
+      },
+      "wind": {
+        "min": 2.1,
+        "max": 2.3
+      }
+    }
+  ],
+  "shortIntervals": [
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 2,
+        "clouds": 1,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "fair_day",
+        "next6Hours": "fair_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 21.3,
+        "probability": {
+          "tenPercentile": 19.4,
+          "ninetyPercentile": 22.9
+        }
+      },
+      "wind": {
+        "direction": 219,
+        "gust": 8.4,
+        "speed": 3.9,
+        "probability": {
+          "tenPercentile": 2.5,
+          "ninetyPercentile": 4.0
+        }
+      },
+      "feelsLike": {
+        "value": 21.3
+      },
+      "pressure": {
+        "value": 1011
+      },
+      "uvIndex": {
+        "value": 1.6
+      },
+      "cloudCover": {
+        "value": 23,
+        "high": 0,
+        "middle": 20,
+        "low": 3,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 54.4
+      },
+      "dewPoint": {
+        "value": 11.7
+      },
+      "start": "2024-06-19T18:00:00+02:00",
+      "end": "2024-06-19T19:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "fair_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 20.7,
+        "probability": {
+          "tenPercentile": 18.9,
+          "ninetyPercentile": 22.3
+        }
+      },
+      "wind": {
+        "direction": 222,
+        "gust": 8.0,
+        "speed": 3.9,
+        "probability": {
+          "tenPercentile": 2.9,
+          "ninetyPercentile": 4.0
+        }
+      },
+      "feelsLike": {
+        "value": 20.7
+      },
+      "pressure": {
+        "value": 1011
+      },
+      "uvIndex": {
+        "value": 0.8
+      },
+      "cloudCover": {
+        "value": 38,
+        "high": 0,
+        "middle": 34,
+        "low": 8,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 53.2
+      },
+      "dewPoint": {
+        "value": 10.8
+      },
+      "start": "2024-06-19T19:00:00+02:00",
+      "end": "2024-06-19T20:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 2,
+        "clouds": 1,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "fair_day",
+        "next6Hours": "fair_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 1,
+        "probability": 1
+      },
+      "temperature": {
+        "value": 19.8,
+        "probability": {
+          "tenPercentile": 17.9,
+          "ninetyPercentile": 21.6
+        }
+      },
+      "wind": {
+        "direction": 221,
+        "gust": 7.5,
+        "speed": 3.6,
+        "probability": {
+          "tenPercentile": 2.6,
+          "ninetyPercentile": 3.6
+        }
+      },
+      "feelsLike": {
+        "value": 19.8
+      },
+      "pressure": {
+        "value": 1011
+      },
+      "uvIndex": {
+        "value": 0.4
+      },
+      "cloudCover": {
+        "value": 22,
+        "high": 0,
+        "middle": 21,
+        "low": 2,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 56.2
+      },
+      "dewPoint": {
+        "value": 11.0
+      },
+      "start": "2024-06-19T20:00:00+02:00",
+      "end": "2024-06-19T21:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "partlycloudy_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 18.8,
+        "probability": {
+          "tenPercentile": 16.8,
+          "ninetyPercentile": 20.6
+        }
+      },
+      "wind": {
+        "direction": 219,
+        "gust": 6.8,
+        "speed": 2.3,
+        "probability": {
+          "tenPercentile": 1.8,
+          "ninetyPercentile": 3.1
+        }
+      },
+      "feelsLike": {
+        "value": 18.8
+      },
+      "pressure": {
+        "value": 1011
+      },
+      "uvIndex": {
+        "value": 0.1
+      },
+      "cloudCover": {
+        "value": 10,
+        "high": 0,
+        "middle": 9,
+        "low": 1,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 64.8
+      },
+      "dewPoint": {
+        "value": 12.2
+      },
+      "start": "2024-06-19T21:00:00+02:00",
+      "end": "2024-06-19T22:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "partlycloudy_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 17.0,
+        "probability": {
+          "tenPercentile": 15.0,
+          "ninetyPercentile": 18.9
+        }
+      },
+      "wind": {
+        "direction": 221,
+        "gust": 4.4,
+        "speed": 1.7,
+        "probability": {
+          "tenPercentile": 1.0,
+          "ninetyPercentile": 2.5
+        }
+      },
+      "feelsLike": {
+        "value": 17.0
+      },
+      "pressure": {
+        "value": 1011
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 76.6
+      },
+      "dewPoint": {
+        "value": 13.1
+      },
+      "start": "2024-06-19T22:00:00+02:00",
+      "end": "2024-06-19T23:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "partlycloudy_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 15.1,
+        "probability": {
+          "tenPercentile": 12.9,
+          "ninetyPercentile": 17.1
+        }
+      },
+      "wind": {
+        "direction": 275,
+        "gust": 3.0,
+        "speed": 1.4,
+        "probability": {
+          "tenPercentile": 1.2,
+          "ninetyPercentile": 3.2
+        }
+      },
+      "feelsLike": {
+        "value": 15.1
+      },
+      "pressure": {
+        "value": 1012
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 1,
+        "high": 1,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 86.3
+      },
+      "dewPoint": {
+        "value": 13.4
+      },
+      "start": "2024-06-19T23:00:00+02:00",
+      "end": "2024-06-20T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_night",
+        "next6Hours": "partlycloudy_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 14.8,
+        "probability": {
+          "tenPercentile": 12.2,
+          "ninetyPercentile": 17.2
+        }
+      },
+      "wind": {
+        "direction": 304,
+        "gust": 5.3,
+        "speed": 2.9,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 3.6
+        }
+      },
+      "feelsLike": {
+        "value": 14.8
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 43,
+        "high": 43,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 82.7
+      },
+      "dewPoint": {
+        "value": 12.4
+      },
+      "start": "2024-06-20T00:00:00+02:00",
+      "end": "2024-06-20T01:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 2,
+        "clouds": 1,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "fair_night",
+        "next6Hours": "partlycloudy_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 14.2,
+        "probability": {
+          "tenPercentile": 11.6,
+          "ninetyPercentile": 16.5
+        }
+      },
+      "wind": {
+        "direction": 305,
+        "gust": 5.4,
+        "speed": 2.9,
+        "probability": {
+          "tenPercentile": 2.4,
+          "ninetyPercentile": 3.2
+        }
+      },
+      "feelsLike": {
+        "value": 14.2
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 25,
+        "high": 25,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 71.6
+      },
+      "dewPoint": {
+        "value": 9.4
+      },
+      "start": "2024-06-20T01:00:00+02:00",
+      "end": "2024-06-20T02:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_night",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 13.1,
+        "probability": {
+          "tenPercentile": 10.7,
+          "ninetyPercentile": 15.3
+        }
+      },
+      "wind": {
+        "direction": 302,
+        "gust": 5.4,
+        "speed": 2.5,
+        "probability": {
+          "tenPercentile": 2.1,
+          "ninetyPercentile": 3.1
+        }
+      },
+      "feelsLike": {
+        "value": 13.1
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 84,
+        "high": 84,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 65.8
+      },
+      "dewPoint": {
+        "value": 7.1
+      },
+      "start": "2024-06-20T02:00:00+02:00",
+      "end": "2024-06-20T03:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_night",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 12.6,
+        "probability": {
+          "tenPercentile": 10.2,
+          "ninetyPercentile": 14.7
+        }
+      },
+      "wind": {
+        "direction": 295,
+        "gust": 5.0,
+        "speed": 2.7,
+        "probability": {
+          "tenPercentile": 2.0,
+          "ninetyPercentile": 3.1
+        }
+      },
+      "feelsLike": {
+        "value": 12.6
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 85,
+        "high": 84,
+        "middle": 1,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 66.3
+      },
+      "dewPoint": {
+        "value": 6.7
+      },
+      "start": "2024-06-20T03:00:00+02:00",
+      "end": "2024-06-20T04:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 12.3,
+        "probability": {
+          "tenPercentile": 9.8,
+          "ninetyPercentile": 14.3
+        }
+      },
+      "wind": {
+        "direction": 289,
+        "gust": 6.0,
+        "speed": 3.2,
+        "probability": {
+          "tenPercentile": 1.8,
+          "ninetyPercentile": 3.2
+        }
+      },
+      "feelsLike": {
+        "value": 12.3
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 68,
+        "high": 59,
+        "middle": 22,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 65.1
+      },
+      "dewPoint": {
+        "value": 5.9
+      },
+      "start": "2024-06-20T04:00:00+02:00",
+      "end": "2024-06-20T05:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 12.0,
+        "probability": {
+          "tenPercentile": 9.8,
+          "ninetyPercentile": 13.9
+        }
+      },
+      "wind": {
+        "direction": 275,
+        "gust": 6.0,
+        "speed": 2.7,
+        "probability": {
+          "tenPercentile": 2.1,
+          "ninetyPercentile": 3.1
+        }
+      },
+      "feelsLike": {
+        "value": 12.0
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 0.1
+      },
+      "cloudCover": {
+        "value": 64,
+        "high": 56,
+        "middle": 15,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 61.4
+      },
+      "dewPoint": {
+        "value": 4.9
+      },
+      "start": "2024-06-20T05:00:00+02:00",
+      "end": "2024-06-20T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 12.5,
+        "probability": {
+          "tenPercentile": 10.3,
+          "ninetyPercentile": 14.3
+        }
+      },
+      "wind": {
+        "direction": 265,
+        "gust": 5.8,
+        "speed": 2.7,
+        "probability": {
+          "tenPercentile": 2.0,
+          "ninetyPercentile": 3.1
+        }
+      },
+      "feelsLike": {
+        "value": 12.5
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 0.3
+      },
+      "cloudCover": {
+        "value": 59,
+        "high": 17,
+        "middle": 47,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 57.7
+      },
+      "dewPoint": {
+        "value": 4.5
+      },
+      "start": "2024-06-20T06:00:00+02:00",
+      "end": "2024-06-20T07:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 4,
+        "clouds": 3,
+        "precip": 0
+      },
+      "symbolCode": {
+        "next1Hour": "cloudy",
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 13.4,
+        "probability": {
+          "tenPercentile": 11.4,
+          "ninetyPercentile": 15.4
+        }
+      },
+      "wind": {
+        "direction": 247,
+        "gust": 6.0,
+        "speed": 3.1,
+        "probability": {
+          "tenPercentile": 2.3,
+          "ninetyPercentile": 3.7
+        }
+      },
+      "feelsLike": {
+        "value": 13.4
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 0.6
+      },
+      "cloudCover": {
+        "value": 99,
+        "high": 30,
+        "middle": 97,
+        "low": 2,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 57.0
+      },
+      "dewPoint": {
+        "value": 5.4
+      },
+      "start": "2024-06-20T07:00:00+02:00",
+      "end": "2024-06-20T08:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 4,
+        "clouds": 3,
+        "precip": 0
+      },
+      "symbolCode": {
+        "next1Hour": "cloudy",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 14.7,
+        "probability": {
+          "tenPercentile": 12.6,
+          "ninetyPercentile": 16.8
+        }
+      },
+      "wind": {
+        "direction": 243,
+        "gust": 6.8,
+        "speed": 3.5,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 4.4
+        }
+      },
+      "feelsLike": {
+        "value": 14.7
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 1.3
+      },
+      "cloudCover": {
+        "value": 95,
+        "high": 7,
+        "middle": 94,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 58.5
+      },
+      "dewPoint": {
+        "value": 7.0
+      },
+      "start": "2024-06-20T08:00:00+02:00",
+      "end": "2024-06-20T09:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 16.1,
+        "probability": {
+          "tenPercentile": 13.9,
+          "ninetyPercentile": 18.3
+        }
+      },
+      "wind": {
+        "direction": 239,
+        "gust": 6.7,
+        "speed": 3.2,
+        "probability": {
+          "tenPercentile": 3.2,
+          "ninetyPercentile": 4.4
+        }
+      },
+      "feelsLike": {
+        "value": 16.1
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 2.2
+      },
+      "cloudCover": {
+        "value": 65,
+        "high": 3,
+        "middle": 64,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 54.1
+      },
+      "dewPoint": {
+        "value": 7.2
+      },
+      "start": "2024-06-20T09:00:00+02:00",
+      "end": "2024-06-20T10:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 17.9,
+        "probability": {
+          "tenPercentile": 15.8,
+          "ninetyPercentile": 20.0
+        }
+      },
+      "wind": {
+        "direction": 245,
+        "gust": 7.5,
+        "speed": 3.4,
+        "probability": {
+          "tenPercentile": 3.4,
+          "ninetyPercentile": 4.6
+        }
+      },
+      "feelsLike": {
+        "value": 17.9
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 3.3
+      },
+      "cloudCover": {
+        "value": 3,
+        "high": 2,
+        "middle": 1,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 50.6
+      },
+      "dewPoint": {
+        "value": 7.6
+      },
+      "start": "2024-06-20T10:00:00+02:00",
+      "end": "2024-06-20T11:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 19.1,
+        "probability": {
+          "tenPercentile": 16.8,
+          "ninetyPercentile": 21.3
+        }
+      },
+      "wind": {
+        "direction": 233,
+        "gust": 9.5,
+        "speed": 4.4,
+        "probability": {
+          "tenPercentile": 3.7,
+          "ninetyPercentile": 5.7
+        }
+      },
+      "feelsLike": {
+        "value": 19.1
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 4.3
+      },
+      "cloudCover": {
+        "value": 1,
+        "high": 1,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 51.3
+      },
+      "dewPoint": {
+        "value": 8.6
+      },
+      "start": "2024-06-20T11:00:00+02:00",
+      "end": "2024-06-20T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 19.7,
+        "probability": {
+          "tenPercentile": 17.3,
+          "ninetyPercentile": 22.0
+        }
+      },
+      "wind": {
+        "direction": 214,
+        "gust": 10.9,
+        "speed": 5.1,
+        "probability": {
+          "tenPercentile": 4.7,
+          "ninetyPercentile": 6.8
+        }
+      },
+      "feelsLike": {
+        "value": 19.7
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 5.0
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 54.0
+      },
+      "dewPoint": {
+        "value": 9.9
+      },
+      "start": "2024-06-20T12:00:00+02:00",
+      "end": "2024-06-20T13:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 19.9,
+        "probability": {
+          "tenPercentile": 17.5,
+          "ninetyPercentile": 22.1
+        }
+      },
+      "wind": {
+        "direction": 219,
+        "gust": 13.1,
+        "speed": 6.3,
+        "probability": {
+          "tenPercentile": 6.1,
+          "ninetyPercentile": 7.5
+        }
+      },
+      "feelsLike": {
+        "value": 19.9
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 5.4
+      },
+      "cloudCover": {
+        "value": 3,
+        "high": 0,
+        "middle": 0,
+        "low": 3,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 61.4
+      },
+      "dewPoint": {
+        "value": 11.8
+      },
+      "start": "2024-06-20T13:00:00+02:00",
+      "end": "2024-06-20T14:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.2,
+        "probability": {
+          "tenPercentile": 18.1,
+          "ninetyPercentile": 22.2
+        }
+      },
+      "wind": {
+        "direction": 218,
+        "gust": 14.2,
+        "speed": 7.0,
+        "probability": {
+          "tenPercentile": 6.4,
+          "ninetyPercentile": 7.7
+        }
+      },
+      "feelsLike": {
+        "value": 20.2
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 5.3
+      },
+      "cloudCover": {
+        "value": 3,
+        "high": 0,
+        "middle": 0,
+        "low": 3,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 67.9
+      },
+      "dewPoint": {
+        "value": 13.6
+      },
+      "start": "2024-06-20T14:00:00+02:00",
+      "end": "2024-06-20T15:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.8,
+        "probability": {
+          "tenPercentile": 18.7,
+          "ninetyPercentile": 22.9
+        }
+      },
+      "wind": {
+        "direction": 217,
+        "gust": 14.1,
+        "speed": 6.5,
+        "probability": {
+          "tenPercentile": 5.9,
+          "ninetyPercentile": 7.3
+        }
+      },
+      "feelsLike": {
+        "value": 20.8
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 4.6
+      },
+      "cloudCover": {
+        "value": 2,
+        "high": 0,
+        "middle": 0,
+        "low": 2,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 68.9
+      },
+      "dewPoint": {
+        "value": 14.3
+      },
+      "start": "2024-06-20T15:00:00+02:00",
+      "end": "2024-06-20T16:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 21.0,
+        "probability": {
+          "tenPercentile": 18.6,
+          "ninetyPercentile": 23.3
+        }
+      },
+      "wind": {
+        "direction": 222,
+        "gust": 13.4,
+        "speed": 6.4,
+        "probability": {
+          "tenPercentile": 5.2,
+          "ninetyPercentile": 6.9
+        }
+      },
+      "feelsLike": {
+        "value": 21.0
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 3.7
+      },
+      "cloudCover": {
+        "value": 1,
+        "high": 0,
+        "middle": 0,
+        "low": 1,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 69.7
+      },
+      "dewPoint": {
+        "value": 14.7
+      },
+      "start": "2024-06-20T16:00:00+02:00",
+      "end": "2024-06-20T17:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 21.2,
+        "probability": {
+          "tenPercentile": 18.6,
+          "ninetyPercentile": 23.8
+        }
+      },
+      "wind": {
+        "direction": 226,
+        "gust": 13.0,
+        "speed": 5.6,
+        "probability": {
+          "tenPercentile": 4.8,
+          "ninetyPercentile": 6.2
+        }
+      },
+      "feelsLike": {
+        "value": 21.2
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 2.6
+      },
+      "cloudCover": {
+        "value": 1,
+        "high": 0,
+        "middle": 0,
+        "low": 1,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 68.3
+      },
+      "dewPoint": {
+        "value": 14.7
+      },
+      "start": "2024-06-20T17:00:00+02:00",
+      "end": "2024-06-20T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 21.6,
+        "probability": {
+          "tenPercentile": 19.0,
+          "ninetyPercentile": 24.1
+        }
+      },
+      "wind": {
+        "direction": 223,
+        "gust": 11.3,
+        "speed": 4.1,
+        "probability": {
+          "tenPercentile": 4.1,
+          "ninetyPercentile": 5.4
+        }
+      },
+      "feelsLike": {
+        "value": 21.6
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 1.6
+      },
+      "cloudCover": {
+        "value": 1,
+        "high": 0,
+        "middle": 0,
+        "low": 1,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 65.1
+      },
+      "dewPoint": {
+        "value": 14.3
+      },
+      "start": "2024-06-20T18:00:00+02:00",
+      "end": "2024-06-20T19:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 21.6,
+        "probability": {
+          "tenPercentile": 19.2,
+          "ninetyPercentile": 23.8
+        }
+      },
+      "wind": {
+        "direction": 233,
+        "gust": 8.4,
+        "speed": 3.1,
+        "probability": {
+          "tenPercentile": 2.9,
+          "ninetyPercentile": 5.3
+        }
+      },
+      "feelsLike": {
+        "value": 21.6
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "uvIndex": {
+        "value": 0.9
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 60.8
+      },
+      "dewPoint": {
+        "value": 11.6
+      },
+      "start": "2024-06-20T19:00:00+02:00",
+      "end": "2024-06-20T20:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.5,
+        "probability": {
+          "tenPercentile": 18.3,
+          "ninetyPercentile": 22.6
+        }
+      },
+      "wind": {
+        "direction": 290,
+        "gust": 8.7,
+        "speed": 4.4,
+        "probability": {
+          "tenPercentile": 3.0,
+          "ninetyPercentile": 5.4
+        }
+      },
+      "feelsLike": {
+        "value": 20.5
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "uvIndex": {
+        "value": 0.4
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 46.2
+      },
+      "dewPoint": {
+        "value": 8.5
+      },
+      "start": "2024-06-20T20:00:00+02:00",
+      "end": "2024-06-20T21:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 18.9,
+        "probability": {
+          "tenPercentile": 16.6,
+          "ninetyPercentile": 21.0
+        }
+      },
+      "wind": {
+        "direction": 278,
+        "gust": 8.4,
+        "speed": 3.3,
+        "probability": {
+          "tenPercentile": 3.2,
+          "ninetyPercentile": 4.7
+        }
+      },
+      "feelsLike": {
+        "value": 18.9
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 0.1
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 51.4
+      },
+      "dewPoint": {
+        "value": 8.6
+      },
+      "start": "2024-06-20T21:00:00+02:00",
+      "end": "2024-06-20T22:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 17.3,
+        "probability": {
+          "tenPercentile": 14.9,
+          "ninetyPercentile": 19.4
+        }
+      },
+      "wind": {
+        "direction": 272,
+        "gust": 6.2,
+        "speed": 3.0,
+        "probability": {
+          "tenPercentile": 2.5,
+          "ninetyPercentile": 3.4
+        }
+      },
+      "feelsLike": {
+        "value": 17.3
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 55.2
+      },
+      "dewPoint": {
+        "value": 8.2
+      },
+      "start": "2024-06-20T22:00:00+02:00",
+      "end": "2024-06-20T23:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 15.8,
+        "probability": {
+          "tenPercentile": 13.4,
+          "ninetyPercentile": 17.9
+        }
+      },
+      "wind": {
+        "direction": 276,
+        "gust": 5.6,
+        "speed": 2.9,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 3.3
+        }
+      },
+      "feelsLike": {
+        "value": 15.8
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 11,
+        "high": 11,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 58.3
+      },
+      "dewPoint": {
+        "value": 7.5
+      },
+      "start": "2024-06-20T23:00:00+02:00",
+      "end": "2024-06-21T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 14.4,
+        "probability": {
+          "tenPercentile": 12.0,
+          "ninetyPercentile": 16.7
+        }
+      },
+      "wind": {
+        "direction": 287,
+        "gust": 5.4,
+        "speed": 2.8,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 3.2
+        }
+      },
+      "feelsLike": {
+        "value": 14.4
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 2,
+        "high": 2,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 60.2
+      },
+      "dewPoint": {
+        "value": 7.0
+      },
+      "start": "2024-06-21T00:00:00+02:00",
+      "end": "2024-06-21T01:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 13.2,
+        "probability": {
+          "tenPercentile": 10.7,
+          "ninetyPercentile": 15.4
+        }
+      },
+      "wind": {
+        "direction": 291,
+        "gust": 5.2,
+        "speed": 2.5,
+        "probability": {
+          "tenPercentile": 2.1,
+          "ninetyPercentile": 2.7
+        }
+      },
+      "feelsLike": {
+        "value": 13.2
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 64.2
+      },
+      "dewPoint": {
+        "value": 7.0
+      },
+      "start": "2024-06-21T01:00:00+02:00",
+      "end": "2024-06-21T02:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 11.9,
+        "probability": {
+          "tenPercentile": 9.4,
+          "ninetyPercentile": 14.1
+        }
+      },
+      "wind": {
+        "direction": 320,
+        "gust": 4.5,
+        "speed": 2.4,
+        "probability": {
+          "tenPercentile": 2.0,
+          "ninetyPercentile": 2.6
+        }
+      },
+      "feelsLike": {
+        "value": 11.9
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 71.0
+      },
+      "dewPoint": {
+        "value": 7.4
+      },
+      "start": "2024-06-21T02:00:00+02:00",
+      "end": "2024-06-21T03:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 10.7,
+        "probability": {
+          "tenPercentile": 8.2,
+          "ninetyPercentile": 12.8
+        }
+      },
+      "wind": {
+        "direction": 305,
+        "gust": 4.4,
+        "speed": 2.2,
+        "probability": {
+          "tenPercentile": 1.6,
+          "ninetyPercentile": 2.4
+        }
+      },
+      "feelsLike": {
+        "value": 10.7
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 75.2
+      },
+      "dewPoint": {
+        "value": 7.1
+      },
+      "start": "2024-06-21T03:00:00+02:00",
+      "end": "2024-06-21T04:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 9.6,
+        "probability": {
+          "tenPercentile": 7.1,
+          "ninetyPercentile": 11.8
+        }
+      },
+      "wind": {
+        "direction": 336,
+        "gust": 3.8,
+        "speed": 1.7,
+        "probability": {
+          "tenPercentile": 1.5,
+          "ninetyPercentile": 2.2
+        }
+      },
+      "feelsLike": {
+        "value": 9.0
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 0.0
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 77.4
+      },
+      "dewPoint": {
+        "value": 6.8
+      },
+      "start": "2024-06-21T04:00:00+02:00",
+      "end": "2024-06-21T05:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 9.0,
+        "probability": {
+          "tenPercentile": 6.6,
+          "ninetyPercentile": 11.2
+        }
+      },
+      "wind": {
+        "direction": 327,
+        "gust": 3.1,
+        "speed": 1.4,
+        "probability": {
+          "tenPercentile": 1.4,
+          "ninetyPercentile": 2.0
+        }
+      },
+      "feelsLike": {
+        "value": 9.0
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 0.1
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 80.7
+      },
+      "dewPoint": {
+        "value": 6.7
+      },
+      "start": "2024-06-21T05:00:00+02:00",
+      "end": "2024-06-21T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 10.4,
+        "probability": {
+          "tenPercentile": 8.0,
+          "ninetyPercentile": 12.6
+        }
+      },
+      "wind": {
+        "direction": 348,
+        "gust": 3.4,
+        "speed": 1.9,
+        "probability": {
+          "tenPercentile": 1.3,
+          "ninetyPercentile": 2.0
+        }
+      },
+      "feelsLike": {
+        "value": 10.4
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 0.3
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 72.9
+      },
+      "dewPoint": {
+        "value": 6.6
+      },
+      "start": "2024-06-21T06:00:00+02:00",
+      "end": "2024-06-21T07:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 12.8,
+        "probability": {
+          "tenPercentile": 10.3,
+          "ninetyPercentile": 15.0
+        }
+      },
+      "wind": {
+        "direction": 28,
+        "gust": 4.0,
+        "speed": 1.9,
+        "probability": {
+          "tenPercentile": 1.0,
+          "ninetyPercentile": 2.2
+        }
+      },
+      "feelsLike": {
+        "value": 12.8
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 0.6
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 62.6
+      },
+      "dewPoint": {
+        "value": 6.4
+      },
+      "start": "2024-06-21T07:00:00+02:00",
+      "end": "2024-06-21T08:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 15.0,
+        "probability": {
+          "tenPercentile": 12.8,
+          "ninetyPercentile": 17.1
+        }
+      },
+      "wind": {
+        "direction": 36,
+        "gust": 5.0,
+        "speed": 2.3,
+        "probability": {
+          "tenPercentile": 1.5,
+          "ninetyPercentile": 2.8
+        }
+      },
+      "feelsLike": {
+        "value": 15.0
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "uvIndex": {
+        "value": 1.3
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 56.3
+      },
+      "dewPoint": {
+        "value": 6.4
+      },
+      "start": "2024-06-21T08:00:00+02:00",
+      "end": "2024-06-21T09:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 16.5,
+        "probability": {
+          "tenPercentile": 14.2,
+          "ninetyPercentile": 18.8
+        }
+      },
+      "wind": {
+        "direction": 58,
+        "gust": 5.2,
+        "speed": 1.9,
+        "probability": {
+          "tenPercentile": 1.2,
+          "ninetyPercentile": 2.8
+        }
+      },
+      "feelsLike": {
+        "value": 16.5
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "uvIndex": {
+        "value": 2.2
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 53.6
+      },
+      "dewPoint": {
+        "value": 7.0
+      },
+      "start": "2024-06-21T09:00:00+02:00",
+      "end": "2024-06-21T10:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 18.0,
+        "probability": {
+          "tenPercentile": 15.5,
+          "ninetyPercentile": 20.3
+        }
+      },
+      "wind": {
+        "direction": 90,
+        "gust": 5.1,
+        "speed": 1.9,
+        "probability": {
+          "tenPercentile": 1.5,
+          "ninetyPercentile": 2.5
+        }
+      },
+      "feelsLike": {
+        "value": 18.0
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "uvIndex": {
+        "value": 3.1
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 50.7
+      },
+      "dewPoint": {
+        "value": 7.5
+      },
+      "start": "2024-06-21T10:00:00+02:00",
+      "end": "2024-06-21T11:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 19.2,
+        "probability": {
+          "tenPercentile": 16.7,
+          "ninetyPercentile": 21.5
+        }
+      },
+      "wind": {
+        "direction": 138,
+        "gust": 5.6,
+        "speed": 2.1,
+        "probability": {
+          "tenPercentile": 2.1,
+          "ninetyPercentile": 3.2
+        }
+      },
+      "feelsLike": {
+        "value": 19.2
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "uvIndex": {
+        "value": 4.0
+      },
+      "cloudCover": {
+        "value": 6,
+        "high": 6,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 49.2
+      },
+      "dewPoint": {
+        "value": 8.0
+      },
+      "start": "2024-06-21T11:00:00+02:00",
+      "end": "2024-06-21T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.0,
+        "probability": {
+          "tenPercentile": 17.5,
+          "ninetyPercentile": 22.4
+        }
+      },
+      "wind": {
+        "direction": 149,
+        "gust": 7.2,
+        "speed": 3.0,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 3.3
+        }
+      },
+      "feelsLike": {
+        "value": 20.0
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "uvIndex": {
+        "value": 4.7
+      },
+      "cloudCover": {
+        "value": 4,
+        "high": 4,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 48.5
+      },
+      "dewPoint": {
+        "value": 8.4
+      },
+      "start": "2024-06-21T12:00:00+02:00",
+      "end": "2024-06-21T13:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.5,
+        "probability": {
+          "tenPercentile": 18.1,
+          "ninetyPercentile": 22.7
+        }
+      },
+      "wind": {
+        "direction": 160,
+        "gust": 8.0,
+        "speed": 3.0,
+        "probability": {
+          "tenPercentile": 2.4,
+          "ninetyPercentile": 3.9
+        }
+      },
+      "feelsLike": {
+        "value": 20.5
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "uvIndex": {
+        "value": 5.1
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 47.8
+      },
+      "dewPoint": {
+        "value": 8.4
+      },
+      "start": "2024-06-21T13:00:00+02:00",
+      "end": "2024-06-21T14:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.8,
+        "probability": {
+          "tenPercentile": 18.3,
+          "ninetyPercentile": 23.1
+        }
+      },
+      "wind": {
+        "direction": 161,
+        "gust": 7.4,
+        "speed": 2.9,
+        "probability": {
+          "tenPercentile": 2.6,
+          "ninetyPercentile": 4.4
+        }
+      },
+      "feelsLike": {
+        "value": 20.8
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 5.0
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 46.3
+      },
+      "dewPoint": {
+        "value": 7.9
+      },
+      "start": "2024-06-21T14:00:00+02:00",
+      "end": "2024-06-21T15:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 21.1,
+        "probability": {
+          "tenPercentile": 18.4,
+          "ninetyPercentile": 23.5
+        }
+      },
+      "wind": {
+        "direction": 165,
+        "gust": 7.2,
+        "speed": 2.9,
+        "probability": {
+          "tenPercentile": 2.6,
+          "ninetyPercentile": 3.7
+        }
+      },
+      "feelsLike": {
+        "value": 21.1
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 4.4
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 44.6
+      },
+      "dewPoint": {
+        "value": 7.8
+      },
+      "start": "2024-06-21T15:00:00+02:00",
+      "end": "2024-06-21T16:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.8,
+        "probability": {
+          "tenPercentile": 18.0,
+          "ninetyPercentile": 23.2
+        }
+      },
+      "wind": {
+        "direction": 167,
+        "gust": 7.7,
+        "speed": 3.4,
+        "probability": {
+          "tenPercentile": 2.6,
+          "ninetyPercentile": 3.8
+        }
+      },
+      "feelsLike": {
+        "value": 20.8
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 3.5
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 47.2
+      },
+      "dewPoint": {
+        "value": 8.1
+      },
+      "start": "2024-06-21T16:00:00+02:00",
+      "end": "2024-06-21T17:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 19.9,
+        "probability": {
+          "tenPercentile": 17.2,
+          "ninetyPercentile": 22.4
+        }
+      },
+      "wind": {
+        "direction": 179,
+        "gust": 8.0,
+        "speed": 2.9,
+        "probability": {
+          "tenPercentile": 2.4,
+          "ninetyPercentile": 3.7
+        }
+      },
+      "feelsLike": {
+        "value": 19.9
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "uvIndex": {
+        "value": 2.4
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 52.5
+      },
+      "dewPoint": {
+        "value": 9.0
+      },
+      "start": "2024-06-21T17:00:00+02:00",
+      "end": "2024-06-21T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 1,
+        "probability": 1
+      },
+      "temperature": {
+        "value": 19.6,
+        "probability": {
+          "tenPercentile": 16.7,
+          "ninetyPercentile": 22.1
+        }
+      },
+      "wind": {
+        "direction": 176,
+        "gust": 6.7,
+        "speed": 2.2,
+        "probability": {
+          "tenPercentile": 2.1,
+          "ninetyPercentile": 3.7
+        }
+      },
+      "feelsLike": {
+        "value": 19.6
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 1.5
+      },
+      "cloudCover": {
+        "value": 2,
+        "high": 0,
+        "middle": 2,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 56.2
+      },
+      "dewPoint": {
+        "value": 9.8
+      },
+      "start": "2024-06-21T18:00:00+02:00",
+      "end": "2024-06-21T19:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 7,
+        "probability": 7
+      },
+      "temperature": {
+        "value": 19.3,
+        "probability": {
+          "tenPercentile": 16.3,
+          "ninetyPercentile": 21.8
+        }
+      },
+      "wind": {
+        "direction": 168,
+        "gust": 5.3,
+        "speed": 2.2,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 3.8
+        }
+      },
+      "feelsLike": {
+        "value": 19.3
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "uvIndex": {
+        "value": 0.8
+      },
+      "cloudCover": {
+        "value": 4,
+        "high": 0,
+        "middle": 4,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 56.2
+      },
+      "dewPoint": {
+        "value": 9.7
+      },
+      "start": "2024-06-21T19:00:00+02:00",
+      "end": "2024-06-21T20:00:00+02:00"
+    }
+  ],
+  "longIntervals": [
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 2,
+        "clouds": 1,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "fair_day",
+        "next6Hours": "fair_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 1,
+        "probability": 1
+      },
+      "temperature": {
+        "value": 21.3,
+        "min": 14.8,
+        "max": 20.7,
+        "probability": {
+          "tenPercentile": 19.4,
+          "ninetyPercentile": 22.9
+        }
+      },
+      "wind": {
+        "direction": 219,
+        "gust": 8.4,
+        "speed": 3.9,
+        "probability": {
+          "tenPercentile": 2.5,
+          "ninetyPercentile": 4.0
+        }
+      },
+      "feelsLike": {
+        "value": 21.3
+      },
+      "pressure": {
+        "value": 1011
+      },
+      "cloudCover": {
+        "value": 23,
+        "high": 0,
+        "middle": 20,
+        "low": 3,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 54.4
+      },
+      "dewPoint": {
+        "value": 11.7
+      },
+      "start": "2024-06-19T18:00:00+02:00",
+      "end": "2024-06-20T00:00:00+02:00",
+      "nominalStart": "2024-06-19T18:00:00+02:00",
+      "nominalEnd": "2024-06-20T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_night",
+        "next6Hours": "partlycloudy_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 14.8,
+        "min": 12.0,
+        "max": 14.2,
+        "probability": {
+          "tenPercentile": 12.2,
+          "ninetyPercentile": 17.2
+        }
+      },
+      "wind": {
+        "direction": 304,
+        "gust": 5.3,
+        "speed": 2.9,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 3.6
+        }
+      },
+      "feelsLike": {
+        "value": 14.8
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "cloudCover": {
+        "value": 43,
+        "high": 43,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 82.7
+      },
+      "dewPoint": {
+        "value": 12.4
+      },
+      "start": "2024-06-20T00:00:00+02:00",
+      "end": "2024-06-20T06:00:00+02:00",
+      "nominalStart": "2024-06-20T00:00:00+02:00",
+      "nominalEnd": "2024-06-20T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "partlycloudy_day",
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 12.5,
+        "min": 13.4,
+        "max": 19.7,
+        "probability": {
+          "tenPercentile": 10.3,
+          "ninetyPercentile": 14.3
+        }
+      },
+      "wind": {
+        "direction": 265,
+        "gust": 5.8,
+        "speed": 2.7,
+        "probability": {
+          "tenPercentile": 2.0,
+          "ninetyPercentile": 3.1
+        }
+      },
+      "feelsLike": {
+        "value": 12.5
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "cloudCover": {
+        "value": 59,
+        "high": 17,
+        "middle": 47,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 57.7
+      },
+      "dewPoint": {
+        "value": 4.5
+      },
+      "start": "2024-06-20T06:00:00+02:00",
+      "end": "2024-06-20T12:00:00+02:00",
+      "nominalStart": "2024-06-20T06:00:00+02:00",
+      "nominalEnd": "2024-06-20T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 19.7,
+        "min": 19.9,
+        "max": 21.6,
+        "probability": {
+          "tenPercentile": 17.3,
+          "ninetyPercentile": 22.0
+        }
+      },
+      "wind": {
+        "direction": 214,
+        "gust": 10.9,
+        "speed": 5.1,
+        "probability": {
+          "tenPercentile": 4.7,
+          "ninetyPercentile": 6.8
+        }
+      },
+      "feelsLike": {
+        "value": 19.7
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 54.0
+      },
+      "dewPoint": {
+        "value": 9.9
+      },
+      "start": "2024-06-20T12:00:00+02:00",
+      "end": "2024-06-20T18:00:00+02:00",
+      "nominalStart": "2024-06-20T12:00:00+02:00",
+      "nominalEnd": "2024-06-20T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 21.6,
+        "min": 14.4,
+        "max": 21.6,
+        "probability": {
+          "tenPercentile": 19.0,
+          "ninetyPercentile": 24.1
+        }
+      },
+      "wind": {
+        "direction": 223,
+        "gust": 11.3,
+        "speed": 4.1,
+        "probability": {
+          "tenPercentile": 4.1,
+          "ninetyPercentile": 5.4
+        }
+      },
+      "feelsLike": {
+        "value": 21.6
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "cloudCover": {
+        "value": 1,
+        "high": 0,
+        "middle": 0,
+        "low": 1,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 65.1
+      },
+      "dewPoint": {
+        "value": 14.3
+      },
+      "start": "2024-06-20T18:00:00+02:00",
+      "end": "2024-06-21T00:00:00+02:00",
+      "nominalStart": "2024-06-20T18:00:00+02:00",
+      "nominalEnd": "2024-06-21T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_night",
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 14.4,
+        "min": 9.0,
+        "max": 13.2,
+        "probability": {
+          "tenPercentile": 12.0,
+          "ninetyPercentile": 16.7
+        }
+      },
+      "wind": {
+        "direction": 287,
+        "gust": 5.4,
+        "speed": 2.8,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 3.2
+        }
+      },
+      "feelsLike": {
+        "value": 14.4
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "cloudCover": {
+        "value": 2,
+        "high": 2,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 60.2
+      },
+      "dewPoint": {
+        "value": 7.0
+      },
+      "start": "2024-06-21T00:00:00+02:00",
+      "end": "2024-06-21T06:00:00+02:00",
+      "nominalStart": "2024-06-21T00:00:00+02:00",
+      "nominalEnd": "2024-06-21T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 10.4,
+        "min": 12.8,
+        "max": 20.0,
+        "probability": {
+          "tenPercentile": 8.0,
+          "ninetyPercentile": 12.6
+        }
+      },
+      "wind": {
+        "direction": 348,
+        "gust": 3.4,
+        "speed": 1.9,
+        "probability": {
+          "tenPercentile": 1.3,
+          "ninetyPercentile": 2.0
+        }
+      },
+      "feelsLike": {
+        "value": 10.4
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 72.9
+      },
+      "dewPoint": {
+        "value": 6.6
+      },
+      "start": "2024-06-21T06:00:00+02:00",
+      "end": "2024-06-21T12:00:00+02:00",
+      "nominalStart": "2024-06-21T06:00:00+02:00",
+      "nominalEnd": "2024-06-21T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next1Hour": "clearsky_day",
+        "next6Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 20.0,
+        "min": 19.6,
+        "max": 21.1,
+        "probability": {
+          "tenPercentile": 17.5,
+          "ninetyPercentile": 22.4
+        }
+      },
+      "wind": {
+        "direction": 149,
+        "gust": 7.2,
+        "speed": 3.0,
+        "probability": {
+          "tenPercentile": 2.2,
+          "ninetyPercentile": 3.3
+        }
+      },
+      "feelsLike": {
+        "value": 20.0
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "cloudCover": {
+        "value": 4,
+        "high": 4,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 48.5
+      },
+      "dewPoint": {
+        "value": 8.4
+      },
+      "start": "2024-06-21T12:00:00+02:00",
+      "end": "2024-06-21T18:00:00+02:00",
+      "nominalStart": "2024-06-21T12:00:00+02:00",
+      "nominalEnd": "2024-06-21T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "lightrainshowers_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 14,
+        "probability": 14
+      },
+      "temperature": {
+        "value": 18.2,
+        "min": 11.6,
+        "max": 17.0,
+        "probability": {
+          "tenPercentile": 15.3,
+          "ninetyPercentile": 20.6
+        }
+      },
+      "wind": {
+        "direction": 174,
+        "gust": 5.2,
+        "speed": 2.2,
+        "probability": {
+          "tenPercentile": 0.8,
+          "ninetyPercentile": 3.4
+        }
+      },
+      "feelsLike": {
+        "value": 18.2
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "uvIndex": {
+        "value": 0.4
+      },
+      "cloudCover": {
+        "value": 6,
+        "high": 0,
+        "middle": 6,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 60.9
+      },
+      "dewPoint": {
+        "value": 9.8
+      },
+      "start": "2024-06-21T20:00:00+02:00",
+      "end": "2024-06-22T02:00:00+02:00",
+      "nominalStart": "2024-06-21T18:00:00+02:00",
+      "nominalEnd": "2024-06-22T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 9,
+        "clouds": 3,
+        "precipPhase": "Rain",
+        "precip": 2
+      },
+      "symbolCode": {
+        "next6Hours": "rain",
+        "next12Hours": "rain"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 3.3,
+        "value": 2.0,
+        "pop": 37,
+        "probability": 37
+      },
+      "temperature": {
+        "value": 12.2,
+        "min": 11.9,
+        "max": 14.8,
+        "probability": {
+          "tenPercentile": 10.7,
+          "ninetyPercentile": 13.9
+        }
+      },
+      "wind": {
+        "direction": 23,
+        "speed": 1.5,
+        "probability": {
+          "tenPercentile": 0.6,
+          "ninetyPercentile": 2.5
+        }
+      },
+      "feelsLike": {
+        "value": 12.2
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "cloudCover": {
+        "value": 100,
+        "high": 100,
+        "middle": 92,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 92.2
+      },
+      "dewPoint": {
+        "value": 11.0
+      },
+      "start": "2024-06-22T02:00:00+02:00",
+      "end": "2024-06-22T08:00:00+02:00",
+      "nominalStart": "2024-06-22T00:00:00+02:00",
+      "nominalEnd": "2024-06-22T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 9,
+        "clouds": 3,
+        "precipPhase": "Rain",
+        "precip": 2
+      },
+      "symbolCode": {
+        "next6Hours": "rain",
+        "next12Hours": "lightrain"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 4.0,
+        "value": 2.2,
+        "pop": 41,
+        "probability": 41
+      },
+      "temperature": {
+        "value": 14.8,
+        "min": 14.8,
+        "max": 18.7,
+        "probability": {
+          "tenPercentile": 13.4,
+          "ninetyPercentile": 15.5
+        }
+      },
+      "wind": {
+        "direction": 22,
+        "speed": 2.3,
+        "probability": {
+          "tenPercentile": 0.8,
+          "ninetyPercentile": 3.9
+        }
+      },
+      "feelsLike": {
+        "value": 14.8
+      },
+      "pressure": {
+        "value": 1011
+      },
+      "cloudCover": {
+        "value": 100,
+        "high": 100,
+        "middle": 100,
+        "low": 10,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 90.7
+      },
+      "dewPoint": {
+        "value": 13.4
+      },
+      "start": "2024-06-22T08:00:00+02:00",
+      "end": "2024-06-22T14:00:00+02:00",
+      "nominalStart": "2024-06-22T06:00:00+02:00",
+      "nominalEnd": "2024-06-22T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 4,
+        "clouds": 3,
+        "precip": 0
+      },
+      "symbolCode": {
+        "next6Hours": "cloudy",
+        "next12Hours": "cloudy"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.7,
+        "value": 0.0,
+        "pop": 29,
+        "probability": 29
+      },
+      "temperature": {
+        "value": 18.7,
+        "min": 17.1,
+        "max": 18.7,
+        "probability": {
+          "tenPercentile": 15.8,
+          "ninetyPercentile": 21.6
+        }
+      },
+      "wind": {
+        "direction": 62,
+        "speed": 2.4,
+        "probability": {
+          "tenPercentile": 1.1,
+          "ninetyPercentile": 4.1
+        }
+      },
+      "feelsLike": {
+        "value": 18.7
+      },
+      "pressure": {
+        "value": 1012
+      },
+      "cloudCover": {
+        "value": 100,
+        "high": 100,
+        "middle": 100,
+        "low": 9,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 88.8
+      },
+      "dewPoint": {
+        "value": 17.0
+      },
+      "start": "2024-06-22T14:00:00+02:00",
+      "end": "2024-06-22T20:00:00+02:00",
+      "nominalStart": "2024-06-22T12:00:00+02:00",
+      "nominalEnd": "2024-06-22T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 4,
+        "clouds": 3,
+        "precip": 0
+      },
+      "symbolCode": {
+        "next6Hours": "cloudy",
+        "next12Hours": "cloudy"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 14,
+        "probability": 14
+      },
+      "temperature": {
+        "value": 17.7,
+        "min": 14.0,
+        "max": 17.7,
+        "probability": {
+          "tenPercentile": 16.1,
+          "ninetyPercentile": 19.8
+        }
+      },
+      "wind": {
+        "direction": 207,
+        "speed": 2.1,
+        "probability": {
+          "tenPercentile": 0.9,
+          "ninetyPercentile": 3.7
+        }
+      },
+      "feelsLike": {
+        "value": 17.7
+      },
+      "pressure": {
+        "value": 1012
+      },
+      "cloudCover": {
+        "value": 100,
+        "high": 100,
+        "middle": 100,
+        "low": 10,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 82.6
+      },
+      "dewPoint": {
+        "value": 14.8
+      },
+      "start": "2024-06-22T20:00:00+02:00",
+      "end": "2024-06-23T02:00:00+02:00",
+      "nominalStart": "2024-06-22T18:00:00+02:00",
+      "nominalEnd": "2024-06-23T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 4,
+        "clouds": 3,
+        "precip": 0
+      },
+      "symbolCode": {
+        "next6Hours": "cloudy",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 8,
+        "probability": 8
+      },
+      "temperature": {
+        "value": 14.3,
+        "min": 13.6,
+        "max": 15.7,
+        "probability": {
+          "tenPercentile": 12.6,
+          "ninetyPercentile": 15.3
+        }
+      },
+      "wind": {
+        "direction": 252,
+        "speed": 1.8,
+        "probability": {
+          "tenPercentile": 1.0,
+          "ninetyPercentile": 3.0
+        }
+      },
+      "feelsLike": {
+        "value": 14.3
+      },
+      "pressure": {
+        "value": 1012
+      },
+      "cloudCover": {
+        "value": 95,
+        "high": 48,
+        "middle": 47,
+        "low": 2,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 90.7
+      },
+      "dewPoint": {
+        "value": 12.9
+      },
+      "start": "2024-06-23T02:00:00+02:00",
+      "end": "2024-06-23T08:00:00+02:00",
+      "nominalStart": "2024-06-23T00:00:00+02:00",
+      "nominalEnd": "2024-06-23T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 6,
+        "probability": 6
+      },
+      "temperature": {
+        "value": 15.7,
+        "min": 15.7,
+        "max": 21.1,
+        "probability": {
+          "tenPercentile": 14.6,
+          "ninetyPercentile": 16.8
+        }
+      },
+      "wind": {
+        "direction": 241,
+        "speed": 2.0,
+        "probability": {
+          "tenPercentile": 0.6,
+          "ninetyPercentile": 3.4
+        }
+      },
+      "feelsLike": {
+        "value": 15.7
+      },
+      "pressure": {
+        "value": 1013
+      },
+      "cloudCover": {
+        "value": 61,
+        "high": 0,
+        "middle": 23,
+        "low": 48,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 85.3
+      },
+      "dewPoint": {
+        "value": 13.4
+      },
+      "start": "2024-06-23T08:00:00+02:00",
+      "end": "2024-06-23T14:00:00+02:00",
+      "nominalStart": "2024-06-23T06:00:00+02:00",
+      "nominalEnd": "2024-06-23T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 4,
+        "probability": 4
+      },
+      "temperature": {
+        "value": 21.1,
+        "min": 19.5,
+        "max": 21.1,
+        "probability": {
+          "tenPercentile": 19.8,
+          "ninetyPercentile": 22.8
+        }
+      },
+      "wind": {
+        "direction": 203,
+        "speed": 3.9,
+        "probability": {
+          "tenPercentile": 2.3,
+          "ninetyPercentile": 4.7
+        }
+      },
+      "feelsLike": {
+        "value": 21.1
+      },
+      "pressure": {
+        "value": 1012
+      },
+      "cloudCover": {
+        "value": 41,
+        "high": 22,
+        "middle": 12,
+        "low": 13,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 70.6
+      },
+      "dewPoint": {
+        "value": 15.7
+      },
+      "start": "2024-06-23T14:00:00+02:00",
+      "end": "2024-06-23T20:00:00+02:00",
+      "nominalStart": "2024-06-23T12:00:00+02:00",
+      "nominalEnd": "2024-06-23T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 20.2,
+        "min": 14.4,
+        "max": 20.2,
+        "probability": {
+          "tenPercentile": 18.6,
+          "ninetyPercentile": 22.1
+        }
+      },
+      "wind": {
+        "direction": 238,
+        "speed": 3.8,
+        "probability": {
+          "tenPercentile": 1.9,
+          "ninetyPercentile": 4.7
+        }
+      },
+      "feelsLike": {
+        "value": 20.2
+      },
+      "pressure": {
+        "value": 1012
+      },
+      "cloudCover": {
+        "value": 7,
+        "high": 4,
+        "middle": 4,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 68.4
+      },
+      "dewPoint": {
+        "value": 14.4
+      },
+      "start": "2024-06-23T20:00:00+02:00",
+      "end": "2024-06-24T02:00:00+02:00",
+      "nominalStart": "2024-06-23T18:00:00+02:00",
+      "nominalEnd": "2024-06-24T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 2,
+        "clouds": 1,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "fair_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 0,
+        "probability": 0
+      },
+      "temperature": {
+        "value": 14.6,
+        "min": 12.9,
+        "max": 16.6,
+        "probability": {
+          "tenPercentile": 13.2,
+          "ninetyPercentile": 15.7
+        }
+      },
+      "wind": {
+        "direction": 281,
+        "speed": 3.1,
+        "probability": {
+          "tenPercentile": 1.7,
+          "ninetyPercentile": 4.5
+        }
+      },
+      "feelsLike": {
+        "value": 14.6
+      },
+      "pressure": {
+        "value": 1015
+      },
+      "cloudCover": {
+        "value": 16,
+        "high": 9,
+        "middle": 9,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 77.3
+      },
+      "dewPoint": {
+        "value": 10.7
+      },
+      "start": "2024-06-24T02:00:00+02:00",
+      "end": "2024-06-24T08:00:00+02:00",
+      "nominalStart": "2024-06-24T00:00:00+02:00",
+      "nominalEnd": "2024-06-24T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 2,
+        "clouds": 1,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "fair_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 16.6,
+        "min": 16.6,
+        "max": 22.4,
+        "probability": {
+          "tenPercentile": 14.2,
+          "ninetyPercentile": 17.6
+        }
+      },
+      "wind": {
+        "direction": 287,
+        "speed": 2.1,
+        "probability": {
+          "tenPercentile": 1.1,
+          "ninetyPercentile": 4.1
+        }
+      },
+      "feelsLike": {
+        "value": 16.6
+      },
+      "pressure": {
+        "value": 1016
+      },
+      "cloudCover": {
+        "value": 32,
+        "high": 32,
+        "middle": 1,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 72.1
+      },
+      "dewPoint": {
+        "value": 11.6
+      },
+      "start": "2024-06-24T08:00:00+02:00",
+      "end": "2024-06-24T14:00:00+02:00",
+      "nominalStart": "2024-06-24T06:00:00+02:00",
+      "nominalEnd": "2024-06-24T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 4,
+        "probability": 4
+      },
+      "temperature": {
+        "value": 22.4,
+        "min": 20.1,
+        "max": 22.4,
+        "probability": {
+          "tenPercentile": 20.1,
+          "ninetyPercentile": 23.8
+        }
+      },
+      "wind": {
+        "direction": 194,
+        "speed": 2.9,
+        "probability": {
+          "tenPercentile": 1.9,
+          "ninetyPercentile": 4.4
+        }
+      },
+      "feelsLike": {
+        "value": 22.4
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "cloudCover": {
+        "value": 60,
+        "high": 29,
+        "middle": 31,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 59.6
+      },
+      "dewPoint": {
+        "value": 14.3
+      },
+      "start": "2024-06-24T14:00:00+02:00",
+      "end": "2024-06-24T20:00:00+02:00",
+      "nominalStart": "2024-06-24T12:00:00+02:00",
+      "nominalEnd": "2024-06-24T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 2,
+        "clouds": 1,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next6Hours": "fair_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 20.7,
+        "min": 14.6,
+        "max": 20.7,
+        "probability": {
+          "tenPercentile": 19.4,
+          "ninetyPercentile": 22.5
+        }
+      },
+      "wind": {
+        "direction": 240,
+        "speed": 2.4,
+        "probability": {
+          "tenPercentile": 1.7,
+          "ninetyPercentile": 4.1
+        }
+      },
+      "feelsLike": {
+        "value": 20.7
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "cloudCover": {
+        "value": 13,
+        "high": 13,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 68.8
+      },
+      "dewPoint": {
+        "value": 14.9
+      },
+      "start": "2024-06-24T20:00:00+02:00",
+      "end": "2024-06-25T02:00:00+02:00",
+      "nominalStart": "2024-06-24T18:00:00+02:00",
+      "nominalEnd": "2024-06-25T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 15.0,
+        "min": 13.7,
+        "max": 16.9,
+        "probability": {
+          "tenPercentile": 13.3,
+          "ninetyPercentile": 16.6
+        }
+      },
+      "wind": {
+        "direction": 299,
+        "speed": 2.3,
+        "probability": {
+          "tenPercentile": 1.3,
+          "ninetyPercentile": 3.7
+        }
+      },
+      "feelsLike": {
+        "value": 15.0
+      },
+      "pressure": {
+        "value": 1020
+      },
+      "cloudCover": {
+        "value": 10,
+        "high": 8,
+        "middle": 2,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 77.9
+      },
+      "dewPoint": {
+        "value": 11.3
+      },
+      "start": "2024-06-25T02:00:00+02:00",
+      "end": "2024-06-25T08:00:00+02:00",
+      "nominalStart": "2024-06-25T00:00:00+02:00",
+      "nominalEnd": "2024-06-25T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 2,
+        "clouds": 1,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "fair_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 16.9,
+        "min": 16.9,
+        "max": 22.8,
+        "probability": {
+          "tenPercentile": 15.4,
+          "ninetyPercentile": 18.5
+        }
+      },
+      "wind": {
+        "direction": 23,
+        "speed": 1.9,
+        "probability": {
+          "tenPercentile": 1.0,
+          "ninetyPercentile": 3.5
+        }
+      },
+      "feelsLike": {
+        "value": 16.9
+      },
+      "pressure": {
+        "value": 1022
+      },
+      "cloudCover": {
+        "value": 14,
+        "high": 14,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 74.7
+      },
+      "dewPoint": {
+        "value": 12.5
+      },
+      "start": "2024-06-25T08:00:00+02:00",
+      "end": "2024-06-25T14:00:00+02:00",
+      "nominalStart": "2024-06-25T06:00:00+02:00",
+      "nominalEnd": "2024-06-25T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 4,
+        "probability": 4
+      },
+      "temperature": {
+        "value": 22.8,
+        "min": 20.2,
+        "max": 22.8,
+        "probability": {
+          "tenPercentile": 20.5,
+          "ninetyPercentile": 25.7
+        }
+      },
+      "wind": {
+        "direction": 197,
+        "speed": 2.3,
+        "probability": {
+          "tenPercentile": 1.4,
+          "ninetyPercentile": 3.8
+        }
+      },
+      "feelsLike": {
+        "value": 22.8
+      },
+      "pressure": {
+        "value": 1023
+      },
+      "cloudCover": {
+        "value": 5,
+        "high": 0,
+        "middle": 4,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 61.0
+      },
+      "dewPoint": {
+        "value": 15.0
+      },
+      "start": "2024-06-25T14:00:00+02:00",
+      "end": "2024-06-25T20:00:00+02:00",
+      "nominalStart": "2024-06-25T12:00:00+02:00",
+      "nominalEnd": "2024-06-25T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 20.7,
+        "min": 15.2,
+        "max": 20.7,
+        "probability": {
+          "tenPercentile": 19.1,
+          "ninetyPercentile": 24.6
+        }
+      },
+      "wind": {
+        "direction": 243,
+        "speed": 1.8,
+        "probability": {
+          "tenPercentile": 1.2,
+          "ninetyPercentile": 2.9
+        }
+      },
+      "feelsLike": {
+        "value": 20.7
+      },
+      "pressure": {
+        "value": 1021
+      },
+      "cloudCover": {
+        "value": 2,
+        "high": 1,
+        "middle": 1,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 70.3
+      },
+      "dewPoint": {
+        "value": 15.3
+      },
+      "start": "2024-06-25T20:00:00+02:00",
+      "end": "2024-06-26T02:00:00+02:00",
+      "nominalStart": "2024-06-25T18:00:00+02:00",
+      "nominalEnd": "2024-06-26T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 15.6,
+        "min": 14.3,
+        "max": 17.9,
+        "probability": {
+          "tenPercentile": 13.5,
+          "ninetyPercentile": 18.4
+        }
+      },
+      "wind": {
+        "direction": 13,
+        "speed": 1.9,
+        "probability": {
+          "tenPercentile": 1.3,
+          "ninetyPercentile": 3.5
+        }
+      },
+      "feelsLike": {
+        "value": 15.6
+      },
+      "pressure": {
+        "value": 1021
+      },
+      "cloudCover": {
+        "value": 0,
+        "high": 0,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 84.0
+      },
+      "dewPoint": {
+        "value": 13.1
+      },
+      "start": "2024-06-26T02:00:00+02:00",
+      "end": "2024-06-26T08:00:00+02:00",
+      "nominalStart": "2024-06-26T00:00:00+02:00",
+      "nominalEnd": "2024-06-26T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 6,
+        "probability": 6
+      },
+      "temperature": {
+        "value": 17.9,
+        "min": 17.9,
+        "max": 23.1,
+        "probability": {
+          "tenPercentile": 16.2,
+          "ninetyPercentile": 19.6
+        }
+      },
+      "wind": {
+        "direction": 33,
+        "speed": 1.6,
+        "probability": {
+          "tenPercentile": 0.7,
+          "ninetyPercentile": 3.8
+        }
+      },
+      "feelsLike": {
+        "value": 17.9
+      },
+      "pressure": {
+        "value": 1022
+      },
+      "cloudCover": {
+        "value": 6,
+        "high": 6,
+        "middle": 1,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 80.1
+      },
+      "dewPoint": {
+        "value": 14.6
+      },
+      "start": "2024-06-26T08:00:00+02:00",
+      "end": "2024-06-26T14:00:00+02:00",
+      "nominalStart": "2024-06-26T06:00:00+02:00",
+      "nominalEnd": "2024-06-26T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 6,
+        "probability": 6
+      },
+      "temperature": {
+        "value": 23.1,
+        "min": 20.9,
+        "max": 23.1,
+        "probability": {
+          "tenPercentile": 20.9,
+          "ninetyPercentile": 25.6
+        }
+      },
+      "wind": {
+        "direction": 195,
+        "speed": 2.5,
+        "probability": {
+          "tenPercentile": 1.5,
+          "ninetyPercentile": 3.5
+        }
+      },
+      "feelsLike": {
+        "value": 23.1
+      },
+      "pressure": {
+        "value": 1022
+      },
+      "cloudCover": {
+        "value": 3,
+        "high": 0,
+        "middle": 0,
+        "low": 3,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 64.1
+      },
+      "dewPoint": {
+        "value": 16.1
+      },
+      "start": "2024-06-26T14:00:00+02:00",
+      "end": "2024-06-26T20:00:00+02:00",
+      "nominalStart": "2024-06-26T12:00:00+02:00",
+      "nominalEnd": "2024-06-26T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 6,
+        "probability": 6
+      },
+      "temperature": {
+        "value": 21.4,
+        "min": 16.2,
+        "max": 21.4,
+        "probability": {
+          "tenPercentile": 20.0,
+          "ninetyPercentile": 25.2
+        }
+      },
+      "wind": {
+        "direction": 205,
+        "speed": 2.1,
+        "probability": {
+          "tenPercentile": 1.3,
+          "ninetyPercentile": 4.0
+        }
+      },
+      "feelsLike": {
+        "value": 21.4
+      },
+      "pressure": {
+        "value": 1020
+      },
+      "cloudCover": {
+        "value": 2,
+        "high": 1,
+        "middle": 1,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 70.6
+      },
+      "dewPoint": {
+        "value": 16.0
+      },
+      "start": "2024-06-26T20:00:00+02:00",
+      "end": "2024-06-27T02:00:00+02:00",
+      "nominalStart": "2024-06-26T18:00:00+02:00",
+      "nominalEnd": "2024-06-27T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 2,
+        "probability": 2
+      },
+      "temperature": {
+        "value": 16.8,
+        "min": 15.2,
+        "max": 18.5,
+        "probability": {
+          "tenPercentile": 14.5,
+          "ninetyPercentile": 18.3
+        }
+      },
+      "wind": {
+        "direction": 242,
+        "speed": 2.1,
+        "probability": {
+          "tenPercentile": 1.1,
+          "ninetyPercentile": 3.7
+        }
+      },
+      "feelsLike": {
+        "value": 16.8
+      },
+      "pressure": {
+        "value": 1020
+      },
+      "cloudCover": {
+        "value": 1,
+        "high": 0,
+        "middle": 1,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 82.2
+      },
+      "dewPoint": {
+        "value": 13.9
+      },
+      "start": "2024-06-27T02:00:00+02:00",
+      "end": "2024-06-27T08:00:00+02:00",
+      "nominalStart": "2024-06-27T00:00:00+02:00",
+      "nominalEnd": "2024-06-27T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 4,
+        "probability": 4
+      },
+      "temperature": {
+        "value": 18.5,
+        "min": 18.5,
+        "max": 24.2,
+        "probability": {
+          "tenPercentile": 17.3,
+          "ninetyPercentile": 19.6
+        }
+      },
+      "wind": {
+        "direction": 33,
+        "speed": 1.8,
+        "probability": {
+          "tenPercentile": 0.6,
+          "ninetyPercentile": 3.4
+        }
+      },
+      "feelsLike": {
+        "value": 18.5
+      },
+      "pressure": {
+        "value": 1020
+      },
+      "cloudCover": {
+        "value": 1,
+        "high": 0,
+        "middle": 0,
+        "low": 1,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 78.1
+      },
+      "dewPoint": {
+        "value": 14.8
+      },
+      "start": "2024-06-27T08:00:00+02:00",
+      "end": "2024-06-27T14:00:00+02:00",
+      "nominalStart": "2024-06-27T06:00:00+02:00",
+      "nominalEnd": "2024-06-27T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 10,
+        "probability": 10
+      },
+      "temperature": {
+        "value": 24.2,
+        "min": 23.1,
+        "max": 24.2,
+        "probability": {
+          "tenPercentile": 21.8,
+          "ninetyPercentile": 26.6
+        }
+      },
+      "wind": {
+        "direction": 202,
+        "speed": 2.2,
+        "probability": {
+          "tenPercentile": 1.5,
+          "ninetyPercentile": 4.2
+        }
+      },
+      "feelsLike": {
+        "value": 24.2
+      },
+      "pressure": {
+        "value": 1019
+      },
+      "cloudCover": {
+        "value": 11,
+        "high": 0,
+        "middle": 11,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 62.8
+      },
+      "dewPoint": {
+        "value": 16.8
+      },
+      "start": "2024-06-27T14:00:00+02:00",
+      "end": "2024-06-27T20:00:00+02:00",
+      "nominalStart": "2024-06-27T12:00:00+02:00",
+      "nominalEnd": "2024-06-27T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 12,
+        "probability": 12
+      },
+      "temperature": {
+        "value": 23.5,
+        "min": 17.1,
+        "max": 23.5,
+        "probability": {
+          "tenPercentile": 20.4,
+          "ninetyPercentile": 26.0
+        }
+      },
+      "wind": {
+        "direction": 206,
+        "speed": 2.2,
+        "probability": {
+          "tenPercentile": 1.2,
+          "ninetyPercentile": 4.1
+        }
+      },
+      "feelsLike": {
+        "value": 23.5
+      },
+      "pressure": {
+        "value": 1018
+      },
+      "cloudCover": {
+        "value": 4,
+        "high": 2,
+        "middle": 2,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 66.4
+      },
+      "dewPoint": {
+        "value": 17.1
+      },
+      "start": "2024-06-27T20:00:00+02:00",
+      "end": "2024-06-28T02:00:00+02:00",
+      "nominalStart": "2024-06-27T18:00:00+02:00",
+      "nominalEnd": "2024-06-28T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 10,
+        "probability": 10
+      },
+      "temperature": {
+        "value": 17.3,
+        "min": 16.1,
+        "max": 19.1,
+        "probability": {
+          "tenPercentile": 15.5,
+          "ninetyPercentile": 19.4
+        }
+      },
+      "wind": {
+        "direction": 25,
+        "speed": 2.2,
+        "probability": {
+          "tenPercentile": 1.0,
+          "ninetyPercentile": 4.2
+        }
+      },
+      "feelsLike": {
+        "value": 17.3
+      },
+      "pressure": {
+        "value": 1018
+      },
+      "cloudCover": {
+        "value": 6,
+        "high": 4,
+        "middle": 0,
+        "low": 0,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 80.3
+      },
+      "dewPoint": {
+        "value": 14.0
+      },
+      "start": "2024-06-28T02:00:00+02:00",
+      "end": "2024-06-28T08:00:00+02:00",
+      "nominalStart": "2024-06-28T00:00:00+02:00",
+      "nominalEnd": "2024-06-28T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 8,
+        "probability": 8
+      },
+      "temperature": {
+        "value": 19.1,
+        "min": 19.1,
+        "max": 23.7,
+        "probability": {
+          "tenPercentile": 16.3,
+          "ninetyPercentile": 20.4
+        }
+      },
+      "wind": {
+        "direction": 25,
+        "speed": 2.1,
+        "probability": {
+          "tenPercentile": 1.0,
+          "ninetyPercentile": 4.2
+        }
+      },
+      "feelsLike": {
+        "value": 19.1
+      },
+      "pressure": {
+        "value": 1019
+      },
+      "cloudCover": {
+        "value": 9,
+        "high": 0,
+        "middle": 6,
+        "low": 4,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 74.5
+      },
+      "dewPoint": {
+        "value": 14.6
+      },
+      "start": "2024-06-28T08:00:00+02:00",
+      "end": "2024-06-28T14:00:00+02:00",
+      "nominalStart": "2024-06-28T06:00:00+02:00",
+      "nominalEnd": "2024-06-28T12:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day",
+        "next12Hours": "fair_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 12,
+        "probability": 12
+      },
+      "temperature": {
+        "value": 23.7,
+        "min": 21.9,
+        "max": 23.7,
+        "probability": {
+          "tenPercentile": 21.8,
+          "ninetyPercentile": 26.5
+        }
+      },
+      "wind": {
+        "direction": 197,
+        "speed": 2.3,
+        "probability": {
+          "tenPercentile": 1.6,
+          "ninetyPercentile": 4.5
+        }
+      },
+      "feelsLike": {
+        "value": 23.7
+      },
+      "pressure": {
+        "value": 1019
+      },
+      "cloudCover": {
+        "value": 11,
+        "high": 0,
+        "middle": 10,
+        "low": 1,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 60.4
+      },
+      "dewPoint": {
+        "value": 15.8
+      },
+      "start": "2024-06-28T14:00:00+02:00",
+      "end": "2024-06-28T20:00:00+02:00",
+      "nominalStart": "2024-06-28T12:00:00+02:00",
+      "nominalEnd": "2024-06-28T18:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Moon"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_night",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 12,
+        "probability": 12
+      },
+      "temperature": {
+        "value": 22.6,
+        "min": 17.1,
+        "max": 22.6,
+        "probability": {
+          "tenPercentile": 20.3,
+          "ninetyPercentile": 25.7
+        }
+      },
+      "wind": {
+        "direction": 243,
+        "speed": 2.2,
+        "probability": {
+          "tenPercentile": 1.2,
+          "ninetyPercentile": 4.1
+        }
+      },
+      "feelsLike": {
+        "value": 22.6
+      },
+      "pressure": {
+        "value": 1017
+      },
+      "cloudCover": {
+        "value": 3,
+        "high": 0,
+        "middle": 2,
+        "low": 2,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 68.1
+      },
+      "dewPoint": {
+        "value": 16.6
+      },
+      "start": "2024-06-28T20:00:00+02:00",
+      "end": "2024-06-29T02:00:00+02:00",
+      "nominalStart": "2024-06-28T18:00:00+02:00",
+      "nominalEnd": "2024-06-29T00:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 3,
+        "clouds": 2,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "partlycloudy_day",
+        "next12Hours": "partlycloudy_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 8,
+        "probability": 8
+      },
+      "temperature": {
+        "value": 17.6,
+        "min": 15.6,
+        "max": 17.8,
+        "probability": {
+          "tenPercentile": 14.7,
+          "ninetyPercentile": 19.8
+        }
+      },
+      "wind": {
+        "direction": 211,
+        "speed": 2.4,
+        "probability": {
+          "tenPercentile": 1.4,
+          "ninetyPercentile": 4.3
+        }
+      },
+      "feelsLike": {
+        "value": 17.6
+      },
+      "pressure": {
+        "value": 1018
+      },
+      "cloudCover": {
+        "value": 83,
+        "high": 72,
+        "middle": 0,
+        "low": 38,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 86.9
+      },
+      "dewPoint": {
+        "value": 15.5
+      },
+      "start": "2024-06-29T02:00:00+02:00",
+      "end": "2024-06-29T08:00:00+02:00",
+      "nominalStart": "2024-06-29T00:00:00+02:00",
+      "nominalEnd": "2024-06-29T06:00:00+02:00"
+    },
+    {
+      "symbol": {
+        "sunup": false,
+        "n": 1,
+        "clouds": 0,
+        "precip": 0,
+        "var": "Sun"
+      },
+      "symbolCode": {
+        "next6Hours": "clearsky_day"
+      },
+      "precipitation": {
+        "min": 0.0,
+        "max": 0.0,
+        "value": 0.0,
+        "pop": 10,
+        "probability": 10
+      },
+      "temperature": {
+        "value": 17.8,
+        "min": 17.8,
+        "max": 24.5,
+        "probability": {
+          "tenPercentile": 15.8,
+          "ninetyPercentile": 21.1
+        }
+      },
+      "wind": {
+        "direction": 28,
+        "speed": 2.3,
+        "probability": {
+          "tenPercentile": 0.6,
+          "ninetyPercentile": 4.1
+        }
+      },
+      "feelsLike": {
+        "value": 17.8
+      },
+      "pressure": {
+        "value": 1014
+      },
+      "cloudCover": {
+        "value": 12,
+        "high": 0,
+        "middle": 0,
+        "low": 12,
+        "fog": 0
+      },
+      "humidity": {
+        "value": 74.2
+      },
+      "dewPoint": {
+        "value": 13.2
+      },
+      "start": "2024-06-29T08:00:00+02:00",
+      "end": "2024-06-29T14:00:00+02:00",
+      "nominalStart": "2024-06-29T06:00:00+02:00",
+      "nominalEnd": "2024-06-29T12:00:00+02:00"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/api/v0/locations/1-2283138/forecast"
+    }
+  }
+}
