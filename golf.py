@@ -4,7 +4,7 @@ import json
 import requests
 from datetime import datetime
 from datetime import datetime, timezone, timedelta
-from selenium_test import Booker
+from booker_class import Booker
 headers = {
     'accept': '*/*',
     'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
@@ -79,18 +79,3 @@ for x in iterate_me:
         print("Target string: ", "2024" + month_day + "T000000")
         booker = Booker("2024" + month_day + "T000000")
         print("Ran successfully")
-
-    # if x["start"] == sytten_nullnull_format:
-    #     print("Klarte sytten også: ", x["start"])
-    #     print("vind hastighet: ", x["wind"]
-    #           ["speed"], " kast: ", x["wind"]["gust"])
-    #     print("temp: ", x["temperature"]["value"],
-    #           " nedbør: ", x["precipitation"]["min"])
-    #     print()
-    # if x["start"] == nitten_nullnull_format:
-    #     print("Klarte nitten også: ", x["start"])
-    #     print("vind hastighet: ", x["wind"]
-    #           ["speed"], " kast: ", x["wind"]["gust"])
-    #     print("temp: ", x["temperature"]["value"],
-    #           " nedbør: ", x["precipitation"]["min"])
-    #     print()
